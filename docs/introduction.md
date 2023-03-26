@@ -13,6 +13,8 @@ Flet is a framework that allows building interactive multi-user web, desktop and
 
 You build a UI for your program with Flet [controls](/docs/controls) which are based on [Flutter](https://flutter.dev) by Google. Flet does not just "wrap" Flutter widgets, but adds its own "opinion" by combining smaller widgets, hiding complexities, implementing UI best-practices, applying reasonable defaults - all to ensure your apps look cool and professional without extra efforts.
 
+## Why you need Flet 
+
 ## Flet app example
 
 At the moment you can write Flet apps in Python and other languages will be added soon.
